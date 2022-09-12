@@ -42,6 +42,7 @@ AP Computer Science Principles
 Describe your course including the name, description, and grade level
 
 Computer Science Principles - AP
+
 Computer Science Principles - CP
 
 ### Situation
