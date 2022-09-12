@@ -17,6 +17,7 @@ The AP Computer Science Principles course reflects what computer science teacher
 <li>Code Analysis—Evaluate and test algorithms and programs.</li>
 <li>Computing Innovations—Investigate computing innovations.</li>
 <li>Responsible Computing—Contribute to an inclusive, safe, collaborative, and ethical computing culture.</li>
+
 Students practice their computer science skills when designing and developing programs that address real-world problems and when investigating computing innovations they use or are interested in better understanding.</li>
 
 
