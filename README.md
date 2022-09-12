@@ -71,7 +71,7 @@ CP - Scratch
 
 Describe the hardware requirements for your class. Provide specific requirements wherever necessary.
 
-Pleasant Valley High School (PVHS) is a one-to-one technology high school. Each student has a Chromebook. Since all work for this class will be completed and submitted using an <a href="#OnlineIDE">Online IDE</a> no other hardware will be required.
+Pleasant Valley High School (PVHS) is a one-to-one technology high school. Each student has a Chromebook. Since all work for this class will be completed and submitted using an [Online IDE](#OnlineIDE) no other hardware will be required.
 
 ### Application
 
