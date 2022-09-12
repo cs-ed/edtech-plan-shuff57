@@ -23,7 +23,7 @@ Students practice their computer science skills when designing and developing pr
 
 ### Prerequisites
 
-#### Content Knowledge
+<u>Content Knowledge</u>
 It is recommended that students in the AP Computer Science Principles course have successfully completed a first-year high school algebra course with a strong foundation of basic linear functions, composition of functions, and problem-solving strategies that require multiple approaches and collaborative efforts. In addition, students should be able to use a Cartesian (x, y) coordinate system to represent points on a plane. It is important that students and their advisers understand that any significant computer science course builds upon a foundation of mathematical reasoning that should be acquired before attempting such a course. Prior computer science experience is not required to take this course. (Special cases may be considered) 
 
 #### Resource Requirements
