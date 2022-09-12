@@ -21,7 +21,7 @@ The AP Computer Science Principles course reflects what computer science teacher
 Students practice their computer science skills when designing and developing programs that address real-world problems and when investigating computing innovations they use or are interested in better understanding.</li>
 
 
-### Prerequisites
+### Prerequisites 
 
 #### Content Knowledge
 
@@ -41,9 +41,9 @@ AP Computer Science Principles
 
 Describe your course including the name, description, and grade level
 
-Computer Science Principles - AP
+*Computer Science Principles - AP*
 
-Computer Science Principles - CP
+*Computer Science Principles - CP*
 
 ### Situation
 
@@ -61,7 +61,7 @@ Describe the software that you will use. Include software used for students as w
 
 ChromeOS
 
-#### Online IDE
+#### Online IDE {#OnlineIDE}
 
 AP - CodeHS
 AP - Replit
@@ -71,7 +71,7 @@ CP - Scratch
 
 Describe the hardware requirements for your class. Provide specific requirements wherever necessary.
 
-Pleasant Valley High School (PVHS) is a one-to-one technology high school. Each student has a Chromebook. Since all work for this class will be completed and submitted using an Online IDE no other hardware will be required.
+Pleasant Valley High School (PVHS) is a one-to-one technology high school. Each student has a Chromebook. Since all work for this class will be completed and submitted using an <a href="#OnlineIDE">Online IDE</a> no other hardware will be required.
 
 ### Application
 
