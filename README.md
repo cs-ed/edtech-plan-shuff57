@@ -61,7 +61,7 @@ Describe the software that you will use. Include software used for students as w
 
 ChromeOS
 
-#### Online IDE {#OnlineIDE}
+### Online IDE {#OnlineIDE}
 
 AP - CodeHS
 AP - Replit
