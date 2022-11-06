@@ -1,11 +1,11 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8305621&assignment_repo_type=AssignmentRepo)
 
-# Educational Technology Plan
+# **Educational Technology Plan**
 
 Provide a brief description of the purpose of your educational technology Plan
 ## Overview
 
-<p style="text-decoration: underline;">Introduction</p>
+### Introduction
 
 #### <pre>Rationale:</pre>
 
