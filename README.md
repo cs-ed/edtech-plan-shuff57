@@ -5,7 +5,7 @@
 Provide a brief description of the purpose of your educational technology Plan
 ## Overview
 
-### <u>**Introduction**</u>
+### <p style="text-decoration: underline;">Introduction</p>
 
 #### <pre>Rationale:</pre>
 
