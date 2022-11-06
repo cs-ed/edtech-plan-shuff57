@@ -1,13 +1,12 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8305621&assignment_repo_type=AssignmentRepo)
 
-# **Educational Technology Plan**
+# Educational Technology Plan
 
-Provide a brief description of the purpose of your educational technology Plan
-## Overview
+## <pre>Overview</pre>
 
 ### Introduction
 
-#### <pre>Rationale:</pre>
+#### <text-indent>Rationale:</text-indent>
 
 Computer science education can and should be available to all students. With a world that is continuing toward a reliance on computers and other computer related peripherals, computer science education is quickly cementing itself as a core part of a student's foundational learning. Prioritizing computer science in the K12 curriculum helps students to develop critical thinking, problem solving, collaboration and logical reasoning skills that they can later apply in their lives in meaningful and relevant ways. In addition to non-academic applications, computer science has relevance toward a student’s aspiration toward higher education. When implemented correctly, computer science can potentially count as a third year of science credit, fourth year of math credit, a general elective credit, career technical education credit, and or a dual enrollment course (master’s degree dependent). Computer science is highly versatile, being able to satisfy many high school graduation requirements and many university eligibility requirements, incentivizing a diverse population of students to enroll.  Data suggests that early exposure to computer science has long term-term effects on the future college and career choices students make. Clearly, the versatility and long-term influence computer science has on current and future students' overall success advocates for the importance of adopting computer science curriculum and standards as soon as possible.
 
