@@ -7,19 +7,20 @@
 ### <ins>Introduction</ins>
 
 
-#### <ul>Rationale:</ul>
+#### <ul>Rationale</ul>
 
 <ul>Computer science education can and should be available to all students. With a world that is continuing toward a reliance on computers and other computer related peripherals, computer science education is quickly cementing itself as a core part of a student's foundational learning. Prioritizing computer science in the K12 curriculum helps students to develop critical thinking, problem solving, collaboration and logical reasoning skills that they can later apply in their lives in meaningful and relevant ways. In addition to non-academic applications, computer science has relevance toward a student’s aspiration toward higher education. When implemented correctly, computer science can potentially count as a third year of science credit, fourth year of math credit, a general elective credit, career technical education credit, and or a dual enrollment course (master’s degree dependent). Computer science is highly versatile, being able to satisfy many high school graduation requirements and many university eligibility requirements, incentivizing a diverse population of students to enroll.  Data suggests that early exposure to computer science has long term-term effects on the future college and career choices students make. Clearly, the versatility and long-term influence computer science has on current and future students' overall success advocates for the importance of adopting computer science curriculum and standards as soon as possible.</ul>
 
-#### <ul>Description:</ul>
+#### <ul>Description</ul>
   
 <ul>AP Computer Science Principles (AP CSP) is one of the newest AP courses from the College Board.  AP CSP introduces students to the foundational concepts of computer science and explores the impact computing and technology have on our society. There are no official prerequisites (C or better is IM1/Algebra 1 recommended) and the course is meant to be a first-time introduction to computer science, but students should be comfortable with functions and function notation. AP CSP is a year-long high school curriculum that fully addresses the five “Big Ideas” of computer science and six “Computational Thinking Practices,” as specified by the College Board’s AP Computer Science Principles curriculum framework. In addition, the CodeHS platform (and related courses) are well aligned with California Computer Science Standards and Standards Framework, Common Core Math Standards, and Next Generation Science Standards most notably. </ul>
 
 <ul>The lessons and materials used throughout this curriculum incorporate Project-Based Learning (PBL), a pedagogical approach that actively engages students in the educational process, improves retention, and develops problem-solving, critical-thinking, and group communication skills. Through this collaborative, learner-centric approach, students are encouraged to explore the advantages and societal impact of computational technology while developing their own programming and computational thinking skills.</ul>
 
-#### <ul>Overarching Goals:</ul>
+#### <ul>Overarching Goals</ul>
 
 <ul>Beyond the ample rationale for the importance of incorporating computer science in schools, there are primary, overarching goals for the course as a whole. With a surging dependency on computers AP CSP aims to:
+  
 <ul><li>Increase and diversify Chico Unified’s participation in computer science.</li></ul>
 <ul><li>Develop, regardless of prior experience in computing, students confidence using computer science as a tool to express themselves and solve problems, and this confidence will prepare them for success in future endeavors in the field of computer science.</li></ul>
 <ul><li>Help students understand the core principles of computing, a field which has and continues to change the world.</li></ul>
@@ -30,36 +31,37 @@
 <ul><li>Help students explain how abstractions are used in computation and modeling.</li></ul>
 <ul><li>Educate students on how to be informed and responsible users of technology.</li></ul>
 
-#### Learning Environment:
+#### <ul>Learning Environment</ul>
 
-The course utilizes a blended classroom approach. The content is a mix of web-based and physical activities. Students will write and run code in the browser, create websites and digital artifacts, and engage in in-person collaborative exercises with classmates. Teachers utilize tools and resources provided by CodeHS to leverage time in the classroom, complexity of assigned tasks and give focused 1-on-1 attention to students. Each unit of the course is broken down into lessons. Lessons consist of video tutorials, short quizzes, example programs to explore, written programming exercises, free response exercises, collaborative creation projects, and research projects.
+<ul>The course utilizes a blended classroom approach. The content is a mix of web-based and physical activities. Students will write and run code in the browser, create websites and digital artifacts, and engage in in-person collaborative exercises with classmates. Teachers utilize tools and resources provided by CodeHS to leverage time in the classroom, complexity of assigned tasks and give focused 1-on-1 attention to students. Each unit of the course is broken down into lessons. Lessons consist of video tutorials, short quizzes, example programs to explore, written programming exercises, free response exercises, collaborative creation projects, and research projects.</ul>
 
-AP CSP curriculum from CodeHS allows for educators to implement both Project-Based Learning (PBL) and Culturally Responsive Education (CRE) pedagogical techniques in order to better engage students in the learning process. By encouraging students to use critical thinking skills and challenging them to solve authentic and meaningful problems, PBL helps students to develop a deeper and more profound understanding of the power of computation in our everyday lives. In teaching this curriculum, educators are encouraged to utilize the range of PBL and CRE techniques that have been incorporated into each unit, including driving questions, overarching unit projects, clear rubrics, regular benchmarks, scaffolding activities, final products, and reflection. Used together in a coherent, unified manner that actively engages students in the educational process, PBL and CRE strategies can help students improve their retention of learned experiences and develop stronger problem solving, critical thinking, and group communication skills.
+<ul>AP CSP curriculum from CodeHS allows for educators to implement both Project-Based Learning (PBL) and Culturally Responsive Education (CRE) pedagogical techniques in order to better engage students in the learning process. By encouraging students to use critical thinking skills and challenging them to solve authentic and meaningful problems, PBL helps students to develop a deeper and more profound understanding of the power of computation in our everyday lives. In teaching this curriculum, educators are encouraged to utilize the range of PBL and CRE techniques that have been incorporated into each unit, including driving questions, overarching unit projects, clear rubrics, regular benchmarks, scaffolding activities, final products, and reflection. Used together in a coherent, unified manner that actively engages students in the educational process, PBL and CRE strategies can help students improve their retention of learned experiences and develop stronger problem solving, critical thinking, and group communication skills.</ul>
 
-#### Programming Environment:
+  #### <ul>Programming Environment</ul>
 
-Students write and run programs in the browser using the CodeHS integrated development environment (IDE). Students will be able to write text-based Python programs, and students will use a graphics library to create Python graphical programs. Students gain programming experience early on in the course that will enable them to explore the rest of the course topics through computational thinking practices.
-### Prerequisites
+<ul>Students write and run programs in the browser using the CodeHS integrated development environment (IDE). Students will be able to write text-based Python programs, and students will use a graphics library to create Python graphical programs. Students gain programming experience early on in the course that will enable them to explore the rest of the course topics through computational thinking practices.</ul>
+  
+  ### <ins>Prerequisites</ins>
 
-#### Who is this course for?
+#### <ul>Who is this course for?</ul>
 
-The Advanced Placement Computer Science Principles (AP CSP) course doesn't require any prior computer science knowledge in order to be successful. Simply an interest in computer science and willingness to work hard/adhere to the rigor of an AP course.
+<ul>The Advanced Placement Computer Science Principles (AP CSP) course doesn't require any prior computer science knowledge in order to be successful. Simply an interest in computer science and willingness to work hard/adhere to the rigor of an AP course.</ul>
 
-#### Content Knowledge
+#### <ul>Content Knowledge</ul>
 
-There are no official prerequisites (C or better is IM1/Algebra 1 recommended) and the course is meant to be a first-time introduction to computer science, but students should be comfortable with basic linear functions and function notation, composition of functions, and problem-solving strategies that require multiple approaches and collaborative efforts. In addition, students should be able to use a Cartesian (x, y) coordinate system to represent points on a plane. It is important that students and their advisers understand that any significant computer science course builds upon a foundation of mathematical reasoning that should be acquired before attempting such a course. Prior computer science experience is not required to take this course. (Special cases may be considered) 
+<ul>There are no official prerequisites (C or better is IM1/Algebra 1 recommended) and the course is meant to be a first-time introduction to computer science, but students should be comfortable with basic linear functions and function notation, composition of functions, and problem-solving strategies that require multiple approaches and collaborative efforts. In addition, students should be able to use a Cartesian (x, y) coordinate system to represent points on a plane. It is important that students and their advisers understand that any significant computer science course builds upon a foundation of mathematical reasoning that should be acquired before attempting such a course. Prior computer science experience is not required to take this course. (Special cases may be considered)</ul>
 
-#### Resource Requirements
+#### <ul>Resource Requirements</ul>
 
-Students should have access to a computer system(s) that contains appropriate software to create and edit programs and allows students to practice, complete, and submit the AP Computer Science Principles performance task. The computer must have Internet access and be able to access the sites necessary for students to be successful in the course and assessment. The school ensures that each student has access to the AP Computer Science Principles Exam Reference Sheet (see Appendix), as well as performance task directions and scoring guidelines. The school ensures that each student has a college-level text or curricular resources deemed necessary by the teacher for individual use inside and outside of
-the classroom.
+<ul>Students should have access to a computer system(s) that contains appropriate software to create and edit programs and allows students to practice, complete, and submit the AP Computer Science Principles performance task. The computer must have Internet access and be able to access the sites necessary for students to be successful in the course and assessment. The school ensures that each student has access to the AP Computer Science Principles Exam Reference Sheet (see Appendix), as well as performance task directions and scoring guidelines. The school ensures that each student has a college-level text or curricular resources deemed necessary by the teacher for individual use inside and outside of
+the classroom.</ul>
 
-There is also an online textbook available for many modules and topics which can be accessed through the lesson plans or at https://codehs.gitbooks.io/introcs/content/ 
+<ul>There is also an online textbook available for many modules and topics which can be accessed through the lesson plans or using the [ebook] (https://codehs.gitbooks.io/introcs/content/)</ul>
 
 
 ## <pre>Context</pre>
 
-### Course
+  ### <ins>Course</ins>
 
 Advanced Placement Computer Science Principles (AP CSP)
 
