@@ -58,16 +58,15 @@ the classroom.</ul>
 
 <ul>There is also an online textbook available for many modules and topics which can be accessed through the lesson plans or using the [ebook] (https://codehs.gitbooks.io/introcs/content/)</ul>
 
-
+# 
+  
 ## <pre>Context</pre>
 
   ### <ins>Course</ins>
 
 Advanced Placement Computer Science Principles (AP CSP)
 
-### Situation
-
-Provide relevant details about your course and/or school that will influence the decisions in the plan. What assets and constraints do you face? What is the context of your class, considering demographic and technical resources?
+  ### <ins>Situation</ins>
 
 Currently, Pleasant Valley High School (PVHS) does not offer a computer science course of any kind. As described above in the Description I wanted to design and propose a class that was rigorous, approachable and worked well with the technology our students have and are already familiar with. PVHS is a one-to-one campus where each student is assigned a Chromebook. Furthermore, PVHS already has a healthy and robust AP program with students looking for alternatives to the “traditional” AP pathway. Lastly, with the recent shift to the block schedule PVHS is in need of more academically inclined electives that meet A-G requirements
 
@@ -75,41 +74,42 @@ I chose to implement AP CSP to fill the current void both for its approachable c
 
 All technical hardware requirements such as wifi network stress have been approved.
 
-## Plan
+# 
+  
+## <pre>Plan</pre>
 
-### Software Specifications
+### <ins>Software Specifications</ins>
 
 Describe the software that you will use. Include software used for students as well as any software the instructor will use. This should include any software installed as well as any online services.
 
-#### Learning Management System
+#### <ul>Learning Management System</ul>
 
-Google Classroom linked to Aeries
+<ul>Google Classroom linked to Aeries<</ul>
 
-#### Operating System
+#### <ul>Operating System</ul>
 
-ChromeOS
+<ul>ChromeOS</ul>
 
-#### Online IDE
+#### <ul>Online IDE</ul>
 
-Students will write and run programs in the browser using the CodeHS integrated development environment (IDE). Students will be able to write text-based Python programs, and students will use a graphics library to create Python graphical programs. The CodeHS IDE is completely self-contained. There will be no need to point outside of the CodeHS site for any debugging or library usage. (A major constraint when choosing an online IDE was ensuring it was complaint with CA State Privacy Laws when it comes to minors)
+<ul>Students will write and run programs in the browser using the CodeHS integrated development environment (IDE). Students will be able to write text-based Python programs, and students will use a graphics library to create Python graphical programs. The CodeHS IDE is completely self-contained. There will be no need to point outside of the CodeHS site for any debugging or library usage. (A major constraint when choosing an online IDE was ensuring it was complaint with CA State Privacy Laws when it comes to minors)</ul>
 
-### Hardware Specifications
+### <ins>Hardware Specifications</ins>
 
 Pleasant Valley High School (PVHS) is a one-to-one technology high school. Each student has a Chromebook. Since all work for this class will be completed and submitted using an Online IDE no other hardware will be required.
 
 **Considerations**: Since this course is directly dependent on an internet connection it should be noted that many of the lessons, activities, assignments, and projects can be handled in an “unplugged” fashion. For example peer-to-peer pseudocoding (or similar coding preparation) may be used in the unfortunate circumstance that the wifi is down. 
 
-### Application
+  ### <ins>Application</ins>
 
 AP CSP curriculum (lessons and materials used throughout this curriculum) from CodeHS allows for educators to implement both [Project-Based Learning](https://www.pblworks.org/) (PBL) and [Culturally Responsive Education](https://repository.library.brown.edu/studio/collections/1041/) (CRE) pedagogical techniques in order to better engage students in the learning process. By encouraging students to use critical thinking skills and challenging them to solve authentic and meaningful problems, PBL helps students to develop a deeper and more profound understanding of the power of computation in our everyday lives. In teaching this curriculum, educators are encouraged to utilize the range of PBL and CRE techniques that have been incorporated into each unit, including driving questions, overarching unit projects, clear rubrics, regular benchmarks, scaffolding activities, final products, and reflection. Used together in a coherent, unified manner that actively engages students in the educational process, PBL and CRE strategies can help students improve their retention of learned experiences and develop stronger problem solving, critical thinking, and group communication skills. Through this collaborative, learner-centric approach, students are encouraged to explore the advantages and societal impact of computational technology while developing their own programming and computational thinking skills.
 
-Alternative Links
+**Alternative Links**
 
-[PBL](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=project+based+learning&btnG=)
-[CRE](https://scholar.google.com/scholar?q=culturally+responsive+teaching&hl=en&as_sdt=0&as_vis=1&oi=scholart)
+[PBL](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=project+based+learning&btnG=) | [CRE](https://scholar.google.com/scholar?q=culturally+responsive+teaching&hl=en&as_sdt=0&as_vis=1&oi=scholart)
 
 
-### Impacts
+### <ins>Impacts</ins>
 
 How will the technology help *all* students learn? In this section, you can also
 describe how you address class resiliency, such as adapting to
