@@ -86,7 +86,7 @@ Google Classroom linked to Aeries
 
 ChromeOS
 
-####Online IDE
+#### Online IDE
 
 Students will write and run programs in the browser using the CodeHS integrated development environment (IDE). Students will be able to write text-based Python programs, and students will use a graphics library to create Python graphical programs. The CodeHS IDE is completely self-contained. There will be no need to point outside of the CodeHS site for any debugging or library usage. (A major constraint when choosing an online IDE was ensuring it was complaint with CA State Privacy Laws when it comes to minors)
 
