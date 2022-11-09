@@ -19,7 +19,7 @@
 
 #### <ul>Overarching Goals</ul>
 
-<ul>Beyond the ample rationale for the importance of incorporating computer science in schools, there are primary, overarching goals for the course as a whole. With a surging dependency on computers AP CSP aims to:</ul>
+<ul>Beyond the ample rationale for the importance of incorporating computer science in schools, there are primary, overarching goals for the course as a whole. With a surging dependency on computers AP CSP aims to:
   
 <ul><li>Increase and diversify Chico Unified’s participation in computer science.</li></ul>
 <ul><li>Develop, regardless of prior experience in computing, students confidence using computer science as a tool to express themselves and solve problems, and this confidence will prepare them for success in future endeavors in the field of computer science.</li></ul>
@@ -30,6 +30,7 @@
 <ul><li>Help students explore and explain how data, information, or knowledge is represented for computational use.</li></ul>
 <ul><li>Help students explain how abstractions are used in computation and modeling.</li></ul>
 <ul><li>Educate students on how to be informed and responsible users of technology.</li></ul>
+  </ul>
 
 #### <ul>Learning Environment</ul>
 
