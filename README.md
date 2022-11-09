@@ -20,14 +20,14 @@
 #### <ul>Overarching Goals:</ul>
 
 <ul>Beyond the ample rationale for the importance of incorporating computer science in schools, there are primary, overarching goals for the course as a whole. With a surging dependency on computers AP CSP aims to:
-<ul><li>Increase and diversify Chico Unified’s participation in computer science.</li>
-<ul><li>Develop, regardless of prior experience in computing, students confidence using computer science as a tool to express themselves and solve problems, and this confidence will prepare them for success in future endeavors in the field of computer science.</li>
-<ul><li>Help students understand the core principles of computing, a field which has and continues to change the world.</li>
-<ul><li>Guide students in the development of computational artifacts to solve problems, communicate ideas, and express their own creativity.</li>
-<ul><li>Foster collaboration with others (faculty, staff, and students) to solve problems and develop computational artifacts Students will be able to explain the impact computing has on society, economy, and culture.</li>
-<ul><li>Assist students as they analyze existing artifacts, identify and correct errors, and explain how the artifact functions.</li>
-<ul><li>Help students explore and explain how data, information, or knowledge is represented for computational use.</li>
-<ul><li>Help students explain how abstractions are used in computation and modeling.</li>
+<ul><li>Increase and diversify Chico Unified’s participation in computer science.</li></ul>
+<ul><li>Develop, regardless of prior experience in computing, students confidence using computer science as a tool to express themselves and solve problems, and this confidence will prepare them for success in future endeavors in the field of computer science.</li></ul>
+<ul><li>Help students understand the core principles of computing, a field which has and continues to change the world.</li></ul>
+<ul><li>Guide students in the development of computational artifacts to solve problems, communicate ideas, and express their own creativity.</li></ul>
+<ul><li>Foster collaboration with others (faculty, staff, and students) to solve problems and develop computational artifacts Students will be able to explain the impact computing has on society, economy, and culture.</li></ul>
+<ul><li>Assist students as they analyze existing artifacts, identify and correct errors, and explain how the artifact functions.</li></ul>
+<ul><li>Help students explore and explain how data, information, or knowledge is represented for computational use.</li></ul>
+<ul><li>Help students explain how abstractions are used in computation and modeling.</li></ul>
 <ul><li>Educate students on how to be informed and responsible users of technology.</li></ul>
 
 #### Learning Environment:
