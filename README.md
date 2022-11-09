@@ -4,7 +4,7 @@
 
 ## <pre>Overview</pre>
 
-### Introduction
+### <ins>Introduction</ins>
 
 #### <text-indent>Rationale:</text-indent>
 
@@ -56,7 +56,7 @@ the classroom.
 There is also an online textbook available for many modules and topics which can be accessed through the lesson plans or at https://codehs.gitbooks.io/introcs/content/ 
 
 
-## Context
+## <pre>Context</pre>
 
 ### Course
 
