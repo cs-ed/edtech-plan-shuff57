@@ -7,7 +7,8 @@
 ### <ins>Introduction</ins>
 
 <section class="h2">
- .h2 {padding-left: 5em;
+ .h2 { 
+   padding-left: 5em;
  }
 #### Rationale:
 </section>
