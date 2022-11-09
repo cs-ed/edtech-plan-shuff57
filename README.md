@@ -57,7 +57,7 @@
 <ul>Students should have access to a computer system(s) that contains appropriate software to create and edit programs and allows students to practice, complete, and submit the AP Computer Science Principles performance task. The computer must have Internet access and be able to access the sites necessary for students to be successful in the course and assessment. The school ensures that each student has access to the AP Computer Science Principles Exam Reference Sheet (see Appendix), as well as performance task directions and scoring guidelines. The school ensures that each student has a college-level text or curricular resources deemed necessary by the teacher for individual use inside and outside of
 the classroom.</ul>
 
-<ul>There is also an online textbook available for many modules and topics which can be accessed through the lesson plans or using the [ebook](https://codehs.gitbooks.io/introcs/content/)</ul>
+<ul>There is also an online textbook available for many modules and topics which can be accessed through the lesson plans or using the [ebook] (https://codehs.gitbooks.io/introcs/content/) </ul>
 
 # 
   
