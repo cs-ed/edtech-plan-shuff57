@@ -50,8 +50,7 @@ There are no official prerequisites (C or better is IM1/Algebra 1 recommended) a
 
 #### Resource Requirements
 
-Students should have access to a computer system(s) that contains appropriate software to create and edit programs and allows students to practice, complete, and submit the AP Computer Science Principles performance task. The computer must have Internet access and be able to access the sites necessary for students to be successful in the course and
-assessment. The school ensures that each student has access to the AP Computer Science Principles Exam Reference Sheet (see Appendix), as well as performance task directions and scoring guidelines. The school ensures that each student has a college-level text or curricular resources deemed necessary by the teacher for individual use inside and outside of
+Students should have access to a computer system(s) that contains appropriate software to create and edit programs and allows students to practice, complete, and submit the AP Computer Science Principles performance task. The computer must have Internet access and be able to access the sites necessary for students to be successful in the course and assessment. The school ensures that each student has access to the AP Computer Science Principles Exam Reference Sheet (see Appendix), as well as performance task directions and scoring guidelines. The school ensures that each student has a college-level text or curricular resources deemed necessary by the teacher for individual use inside and outside of
 the classroom.
 
 There is also an online textbook available for many modules and topics which can be accessed through the lesson plans or at https://codehs.gitbooks.io/introcs/content/ 
@@ -61,23 +60,17 @@ There is also an online textbook available for many modules and topics which can
 
 ### Course
 
-Advanced Placement Computer Science Principles (APCSP)
+Advanced Placement Computer Science Principles (AP CSP)
 
 ### Situation
 
 Provide relevant details about your course and/or school that will influence the decisions in the plan. What assets and constraints do you face? What is the context of your class, considering demographic and technical resources?
 
-Currently, Pleasant Valley High School does not offer a computer science course of any kind. As described above in the Description I wanted to design and propose a class that was rigorous, approachable and worked well with the technology our students are already familiar with. 
+Currently, Pleasant Valley High School (PVHS) does not offer a computer science course of any kind. As described above in the Description I wanted to design and propose a class that was rigorous, approachable and worked well with the technology our students have and are already familiar with. PVHS is a one-to-one campus where each student is assigned a Chromebook. Furthermore, PVHS already has a healthy and robust AP program with students looking for alternatives to the “traditional” AP pathway. Lastly, with the recent shift to the block schedule PVHS is in need of more academically inclined electives that meet A-G requirements
 
-I chose to implement 
+I chose to implement AP CSP to fill the current void both for its approachable content and rigor. Starting with such a low-floor, high-ceiling course allows for us (faculty at PV) to grow our computer science department by introducing even more foundational introductory courses and by implementing courses that extend beyond AP CSP.
 
-PVHS is one-to-one, check with IT to handle the wifi traffic or other constraints
-
-PVHS already has a healthy AP program, plenty of students to get an AP class running. 
-
-Shift to block schedule, need for academically inclined electives, meets A-G requirements
-
-The future plan is to expand beyond these two courses and implement a four course series of classes that students may enroll in. Broadly described, the thought is to offer a course focused on hardware development that uses primarily Python as its programming language and another course focused primarily on software development utilizing prior knowledge with Java Script, HTML, and other markup languages.
+All technical hardware requirements such as wifi network stress have been approved.
 
 ## Plan
 
@@ -87,7 +80,7 @@ Describe the software that you will use. Include software used for students as w
 
 #### Learning Management System
 
-Google Classroom
+Google Classroom linked to Aeries
 
 #### Operating System
 
@@ -95,24 +88,22 @@ ChromeOS
 
 ####Online IDE
 
-AP - CodeHS
-AP - Replit
-CP - Scratch
+Students will write and run programs in the browser using the CodeHS integrated development environment (IDE). Students will be able to write text-based Python programs, and students will use a graphics library to create Python graphical programs. The CodeHS IDE is completely self-contained. There will be no need to point outside of the CodeHS site for any debugging or library usage. (A major constraint when choosing an online IDE was ensuring it was complaint with CA State Privacy Laws when it comes to minors)
 
 ### Hardware Specifications
 
-Describe the hardware requirements for your class. Provide specific requirements wherever necessary.
-
 Pleasant Valley High School (PVHS) is a one-to-one technology high school. Each student has a Chromebook. Since all work for this class will be completed and submitted using an Online IDE no other hardware will be required.
+
+**Considerations**: Since this course is directly dependent on an internet connection it should be noted that many of the lessons, activities, assignments, and projects can be handled in an “unplugged” fashion. For example peer-to-peer pseudocoding (or similar coding preparation) may be used in the unfortunate circumstance that the wifi is down. 
 
 ### Application
 
-Describe how you will use the above technologies in the class, including in-class activities, homework, assignments, and assessment. Justify the use in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
+AP CSP curriculum (lessons and materials used throughout this curriculum) from CodeHS allows for educators to implement both [Project-Based Learning](https://www.pblworks.org/) (PBL) and [Culturally Responsive Education](https://repository.library.brown.edu/studio/collections/1041/) (CRE) pedagogical techniques in order to better engage students in the learning process. By encouraging students to use critical thinking skills and challenging them to solve authentic and meaningful problems, PBL helps students to develop a deeper and more profound understanding of the power of computation in our everyday lives. In teaching this curriculum, educators are encouraged to utilize the range of PBL and CRE techniques that have been incorporated into each unit, including driving questions, overarching unit projects, clear rubrics, regular benchmarks, scaffolding activities, final products, and reflection. Used together in a coherent, unified manner that actively engages students in the educational process, PBL and CRE strategies can help students improve their retention of learned experiences and develop stronger problem solving, critical thinking, and group communication skills. Through this collaborative, learner-centric approach, students are encouraged to explore the advantages and societal impact of computational technology while developing their own programming and computational thinking skills.
 
-Scratch,highly differentiable, low point of entry for all students. Advanced students can increase the challenge as they go. 
-Ease of IDE for trial and error to develop computer thinking, potentially a downfall for AP
+Alternative Links
 
-Watch pedagogy videos
+[PBL](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=project+based+learning&btnG=)
+[CRE](https://scholar.google.com/scholar?q=culturally+responsive+teaching&hl=en&as_sdt=0&as_vis=1&oi=scholart)
 
 
 ### Impacts
@@ -125,90 +116,3 @@ evolving course contexts.
 We are 1-1 so each student has a chromebook, coupled with the block coding applications will help us to differentiate/cater to different skill levels. Fosters an active learning environment Everything is already online, so a transition to a virtual classroom should be seamless. The workflow developed in the google classroom will remain consistent even in a virtual classroom environment.
 
 Peer coding using real time feedback and real time editing from a peer. Leave comments and suggestions to help students progress
-
-
-
-# Educational Technology Plan
-
-Provide a brief description of the purpose of your educational technology Plan
-## Overview
-
-### Brief Introduction
-
-AP Computer Science Principles introduces students to the breadth of the field of computer science. In this course, students will learn to design and evaluate solutions and to apply computer science to solve problems through the development of algorithms and programs. They will incorporate abstraction into programs and use data to discover new knowledge. Students will also explain how computing innovations and computing systems, including the Internet, work, explore their potential impacts, and contribute to a computing culture that is collaborative and ethical. It is important to note that the AP Computer Science Principles course does not have a designated programming language. Teachers have the flexibility to choose a programming language(s) that is most appropriate for their students to use in the classroom.
-
-Computer science involves problem-solving, hardware, and algorithms that help people utilize computers and incorporate multiple perspectives to address real-world problems in contemporary life. As the application of computer science is integrated into more aspects of our lives, it is important to understand the impact of computer science and how to maintain privacy, safety, and security not only when using computers but also while being the innovators of new computing applications. The course strives to engage all students, including those who have traditionally been underrepresented in computer science—such as female students, students of color, students with disabilities, and rural students—by allowing them to discover the power of computer science through rewarding yet challenging concepts.
-A well-designed AP Computer Science Principles course that includes opportunities for students to collaborate to solve problems of their choice can help address traditional issues of equity and access. Such a course can broaden participation in computing while providing a strong and engaging introduction to the breadth of topics in the discipline.
-The AP Computer Science Principles course reflects what computer science teachers, professors, and researchers have indicated are the main goals of an introductory, college-level computer science course:
-<li>Computational Solution Design—Design and evaluate computational solutions for a purpose. </li>
-<li>Algorithms and Program Development—Develop and implement algorithms.</li>
-<li>Abstraction in Program Development—Develop programs that incorporate abstractions.</li>
-<li>Code Analysis—Evaluate and test algorithms and programs.</li>
-<li>Computing Innovations—Investigate computing innovations.</li>
-<li>Responsible Computing—Contribute to an inclusive, safe, collaborative, and ethical computing culture.</li>
-
-Students practice their computer science skills when designing and developing programs that address real-world problems and when investigating computing innovations they use or are interested in better understanding.</li>
-
-
-### Prerequisites 
-
-#### Content Knowledge
-
-It is recommended that students in the AP Computer Science Principles course have successfully completed a first-year high school algebra course with a strong foundation of basic linear functions, composition of functions, and problem-solving strategies that require multiple approaches and collaborative efforts. In addition, students should be able to use a Cartesian (x, y) coordinate system to represent points on a plane. It is important that students and their advisers understand that any significant computer science course builds upon a foundation of mathematical reasoning that should be acquired before attempting such a course. Prior computer science experience is not required to take this course. (Special cases may be considered) 
-
-#### Resource Requirements
-
-Students should have access to a computer system(s) that contains appropriate software to create and edit programs and allows students to practice, complete, and submit the AP Computer Science Principles performance task. The computer must have Internet access and be able to access the sites necessary for students to be successful in the course and
-assessment. The school ensures that each student has access to the AP Computer Science Principles Exam Reference Sheet (see Appendix), as well as performance task directions and scoring guidelines. The school ensures that each student has a college-level text or curricular resources deemed necessary by the teacher for individual use inside and outside of
-the classroom.
-
-## Context
-
-### Course
-
-AP Computer Science Principles
-
-Describe your course including the name, description, and grade level
-
-*Computer Science Principles - AP*
-
-*Computer Science Principles - CP*
-
-### Situation
-
-Provide relevant details about your course and/or school that will influence the
-decisions in the plan. What assets and constraints do you face? What is the
-context of your class, considering demographic and technical resources?
-
-## Plan
-
-### Software Specifications
-
-Describe the software that you will use. Include software used for students as well as any software the instructor will use. This should include any software installed as well as any online services.
-
-#### Operating System
-
-ChromeOS
-
-### Online IDE {#OnlineIDE}
-
-AP - CodeHS
-AP - Replit
-CP - Scratch
-
-### Hardware Specifications
-
-Describe the hardware requirements for your class. Provide specific requirements wherever necessary.
-
-Pleasant Valley High School (PVHS) is a one-to-one technology high school. Each student has a Chromebook. Since all work for this class will be completed and submitted using an [Online IDE](#OnlineIDE) no other hardware will be required.
-
-### Application
-
-Describe how you will use the above technologies in the class, including in-class activities, homework, assignments, and assessment. Justify the use in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
-
-### Impacts
-
-How will the technology help *all* do students learn? In this section, you can also
-describe how you address class resiliency, such as adapting to
-transitions to virtual education, social/legal/ethical challenges,  and/or
-evolving course contexts.
