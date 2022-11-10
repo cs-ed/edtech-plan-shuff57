@@ -57,7 +57,7 @@
 <ul>Students should have access to a computer system(s) that contains appropriate software to create and edit programs and allows students to practice, complete, and submit the AP Computer Science Principles performance task. The computer must have Internet access and be able to access the sites necessary for students to be successful in the course and assessment. The school ensures that each student has access to the AP Computer Science Principles Exam Reference Sheet (see Appendix), as well as performance task directions and scoring guidelines. The school ensures that each student has a college-level text or curricular resources deemed necessary by the teacher for individual use inside and outside of
 the classroom.</ul>
 
-<ul>There is also an online textbook available for many modules and topics which can be accessed through the lesson plans or using the [ebook] (https://codehs.gitbooks.io/introcs/content/) </ul>
+<ul>There is also an online textbook available for many modules and topics which can be accessed through the lesson plans.</ul>
 
 # 
   
@@ -105,7 +105,7 @@ Pleasant Valley High School (PVHS) is a one-to-one technology high school. Each 
 
 AP CSP curriculum (lessons and materials used throughout this curriculum) from CodeHS allows for educators to implement both [Project-Based Learning](https://www.pblworks.org/) (PBL) and [Culturally Responsive Education](https://repository.library.brown.edu/studio/collections/1041/) (CRE) pedagogical techniques in order to better engage students in the learning process. By encouraging students to use critical thinking skills and challenging them to solve authentic and meaningful problems, PBL helps students to develop a deeper and more profound understanding of the power of computation in our everyday lives. In teaching this curriculum, educators are encouraged to utilize the range of PBL and CRE techniques that have been incorporated into each unit, including driving questions, overarching unit projects, clear rubrics, regular benchmarks, scaffolding activities, final products, and reflection. Used together in a coherent, unified manner that actively engages students in the educational process, PBL and CRE strategies can help students improve their retention of learned experiences and develop stronger problem solving, critical thinking, and group communication skills. Through this collaborative, learner-centric approach, students are encouraged to explore the advantages and societal impact of computational technology while developing their own programming and computational thinking skills.
 
-**Alternative Links**
+ **Alternative Links**
 
 [PBL](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=project+based+learning&btnG=) | [CRE](https://scholar.google.com/scholar?q=culturally+responsive+teaching&hl=en&as_sdt=0&as_vis=1&oi=scholart)
 
