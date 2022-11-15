@@ -73,7 +73,7 @@ Currently, Pleasant Valley High School (PVHS) does not offer a computer science 
 
 I chose to implement AP CSP to fill the current void both for its approachable content and rigor. Starting with such a low-floor, high-ceiling course allows for us (faculty at PV) to grow our computer science department by introducing even more foundational introductory courses and by implementing courses that extend beyond AP CSP.
 
-All technical hardware requirements such as wifi network stress have been approved.
+All technical hardware requirements such as wifi network stress and Chromebook upkeep have been approved.
 
 # 
   
