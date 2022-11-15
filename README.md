@@ -103,12 +103,12 @@ Describe the software that you will use. Include software used for students as w
 
 <ul>ViewSonic VPC15-WP</ul>
 <ul>2.8GHz, 6-core, Intel Core i5-8400 CPU</ul>
-<<ul>8 GB RAM</ul>
+<ul>8 GB RAM</ul>
 <ul>256 GB SSD Storage</ul>
 
 <ul>HP Elitebook x360</ul>
 <ul>1.9GHz, 4-core, Intel Core i7-8665U CPU</ul>
-<<ul>16 GB RAM</ul>
+<ul>16 GB RAM</ul>
 <ul>512 GB SSD Storage</ul>
 
 <ul>Student Hardware:</ul>
