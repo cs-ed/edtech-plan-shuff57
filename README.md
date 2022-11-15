@@ -99,24 +99,28 @@ Describe the software that you will use. Include software used for students as w
 
 ### <ins>Hardware Specifications</ins>
 
-<ul>Instructor Hardwarware:</ul>
+#### Instructor Hardwarware:
 
 <ul>ViewSonic VPC15-WP</ul>
 <ul>2.8GHz, 6-core, Intel Core i5-8400 CPU</ul>
 <ul>8 GB RAM</ul>
 <ul>256 GB SSD Storage</ul>
 
+<br></br>
+
 <ul>HP Elitebook x360</ul>
 <ul>1.9GHz, 4-core, Intel Core i7-8665U CPU</ul>
 <ul>16 GB RAM</ul>
 <ul>512 GB SSD Storage</ul>
 
-<ul>Student Hardware:</ul>
+#### Student Hardware:
 
 <ul>HP Chromebook 11 G5 EE Notebook </ul>
 <ul>1.6GHz, 2-core, Intel Celeron N3060 CPU</ul>
 <ul>4 GB RAM</ul>
 <ul>32 GB eMMC SSD Storage</ul>
+
+#### 
 
 Pleasant Valley High School (PVHS) is a one-to-one technology high school. Each student has a Chromebook. Since all work for this class will be completed and submitted using an Online IDE no other hardware will be required.
 
