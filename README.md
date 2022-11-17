@@ -8,17 +8,18 @@
 
 #### Rationale
 
-<p>Computer science education can and should be available to all students. With a world that is continuing toward a reliance on computers and other computer related peripherals, computer science education is quickly cementing itself as a core part of a student's foundational learning. Prioritizing computer science in the K12 curriculum helps students to develop critical thinking, problem solving, collaboration and logical reasoning skills that they can later apply in their lives in meaningful and relevant ways. In addition to non-academic applications, computer science has relevance toward a student’s aspiration toward higher education. When implemented correctly, computer science can potentially count as a third year of science credit, fourth year of math credit, a general elective credit, career technical education credit, and or a dual enrollment course (master’s degree dependent). Computer science is highly versatile, being able to satisfy many high school graduation requirements and many university eligibility requirements, incentivizing a diverse population of students to enroll.  Data suggests that early exposure to computer science has long term-term effects on the future college and career choices students make. Clearly, the versatility and long-term influence computer science has on current and future students' overall success advocates for the importance of adopting computer science curriculum and standards as soon as possible.</p>
+Computer science education can and should be available to all students. With a world that is continuing toward a reliance on computers and other computer related peripherals, computer science education is quickly cementing itself as a core part of a student's foundational learning. Prioritizing computer science in the K12 curriculum helps students to develop critical thinking, problem solving, collaboration and logical reasoning skills that they can later apply in their lives in meaningful and relevant ways. In addition to non-academic applications, computer science has relevance toward a student’s aspiration toward higher education. When implemented correctly, computer science can potentially count as a third year of science credit, fourth year of math credit, a general elective credit, career technical education credit, and or a dual enrollment course (master’s degree dependent). Computer science is highly versatile, being able to satisfy many high school graduation requirements and many university eligibility requirements, incentivizing a diverse population of students to enroll.  Data suggests that early exposure to computer science has long term-term effects on the future college and career choices students make. Clearly, the versatility and long-term influence computer science has on current and future students' overall success advocates for the importance of adopting computer science curriculum and standards as soon as possible.
 
- #### Description
+#### Description
   
 AP Computer Science Principles (AP CSP) is one of the newest AP courses from the College Board.  AP CSP introduces students to the foundational concepts of computer science and explores the impact computing and technology have on our society. There are no official prerequisites (C or better is IM1/Algebra 1 recommended) and the course is meant to be a first-time introduction to computer science, but students should be comfortable with functions and function notation. AP CSP is a year-long high school curriculum that fully addresses the five “Big Ideas” of computer science and six “Computational Thinking Practices,” as specified by the College Board’s AP Computer Science Principles curriculum framework. In addition, the CodeHS platform (and related courses) are well aligned with California Computer Science Standards and Standards Framework, Common Core Math Standards, and Next Generation Science Standards most notably.
 
 The lessons and materials used throughout this curriculum incorporate Project-Based Learning (PBL), a pedagogical approach that actively engages students in the educational process, improves retention, and develops problem-solving, critical-thinking, and group communication skills. Through this collaborative, learner-centric approach, students are encouraged to explore the advantages and societal impact of computational technology while developing their own programming and computational thinking skills.
 
-  #### Overarching Goals
+ #### Overarching Goals
 
 Beyond the ample rationale for the importance of incorporating computer science in schools, there are primary, overarching goals for the course as a whole. With a surging dependency on computers AP CSP aims to:
+
 <ul>  
 <li>Increase and diversify Chico Unified’s participation in computer science.</li>
 <li>Develop, regardless of prior experience in computing, students confidence using computer science as a tool to express themselves and solve problems, and this confidence will prepare them for success in future endeavors in the field of computer science.</li>
@@ -30,7 +31,7 @@ Beyond the ample rationale for the importance of incorporating computer science 
 <li>Help students explain how abstractions are used in computation and modeling.</li>
 <li>Educate students on how to be informed and responsible users of technology.</li></ul>
 
-  #### Learning Environment
+#### Learning Environment
 
 The course utilizes a blended classroom approach. The content is a mix of web-based and physical activities. Students will write and run code in the browser, create websites and digital artifacts, and engage in in-person collaborative exercises with classmates. Teachers utilize tools and resources provided by CodeHS to leverage time in the classroom, complexity of assigned tasks and give focused 1-on-1 attention to students. Each unit of the course is broken down into lessons. Lessons consist of video tutorials, short quizzes, example programs to explore, written programming exercises, free response exercises, collaborative creation projects, and research projects.
 
@@ -57,7 +58,6 @@ the classroom.
 
 There is also an online textbook available for many modules and topics which can be accessed through the lesson plans.
 
-
 ## Context
 
 ### Course
@@ -71,7 +71,6 @@ Currently, Pleasant Valley High School (PVHS) does not offer a computer science 
 I chose to implement AP CSP to fill the current void both for its approachable content and rigor. Starting with such a low-floor, high-ceiling course allows for us (faculty at PV) to grow our computer science department by introducing even more foundational introductory courses and by implementing courses that extend beyond AP CSP.
 
 All technical hardware requirements such as wifi network stress and Chromebook upkeep have been approved.
- 
  
 ## Plan
 
