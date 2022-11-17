@@ -26,7 +26,7 @@ Beyond the ample rationale for the importance of incorporating computer science 
 <li>Help students understand the core principles of computing, a field which has and continues to change the world.</li>
 <li>Guide students in the development of computational artifacts to solve problems, communicate ideas, and express their own creativity.</li>
 <li>Foster collaboration with others (faculty, staff, and students) to solve problems and develop computational artifacts Students will be able to explain the impact computing has on society, economy, and culture.</li>
-<li>Assist students as they analyze existing artifacts, identify and correct errors, and explain how the artifact functions.</li
+<li>Assist students as they analyze existing artifacts, identify and correct errors, and explain how the artifact functions.</li>
 <li>Help students explore and explain how data, information, or knowledge is represented for computational use.</li>
 <li>Help students explain how abstractions are used in computation and modeling.</li>
 <li>Educate students on how to be informed and responsible users of technology.</li>
