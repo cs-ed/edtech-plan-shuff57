@@ -97,13 +97,13 @@ Add in Licencing blurb
 
 #### Instructor Hardwarware:
 
-<ins>Smartboard:</ins>
+<ins>Smartboard</ins>:
 <ul>ViewSonic VPC15-WP</ul>
 <ul>2.8GHz, 6-core, Intel Core i5-8400 CPU</ul>
 <ul>8 GB RAM</ul>
 <ul>256 GB SSD Storage</ul>
 
-<ins>Laptop:</ins>
+<ins>Laptop</ins>:
 <ul>HP Elitebook x360</ul>
 <ul>1.9GHz, 4-core, Intel Core i7-8665U CPU</ul>
 <ul>16 GB RAM</ul>
@@ -129,7 +129,6 @@ AP CSP curriculum (lessons and materials used throughout this curriculum) from C
 
 [PBL](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=project+based+learning&btnG=) | [CRE](https://scholar.google.com/scholar?q=culturally+responsive+teaching&hl=en&as_sdt=0&as_vis=1&oi=scholart)
 
-
 ### Impacts
 
 How will the technology help *all* students learn? In this section, you can also
@@ -139,11 +138,7 @@ evolving course contexts.
 
 As an instructor, I cannot ensure that *all* students will learn. Learning is a personal, self-motivated endovour. I can simply provide the optimal environment to maximize a students ***opportunity*** to learn. Through the use of various differentiation and scaffolding techniques as described in the ______ section above and throgh the 'Google Docs-like' real-time editting feature students are more connected than ever before. Uing the CodeHS platforms grants me access to a number of remdiation and extenstion assignments that I would be able to use to support my students learning. Also since PVHS is a one-to-one school, students are not limited to working in the school computer lab (which do not currently have), but students are able to work anywhere, at any time, and collaborate with anyone on their coding assignments and projects. Additionally, because CodeHS is browser based students' questions are not limited to the classroom, but rather only limited by an internet connections and the time/willingness to continue working on coding projects outside of the school environment. All of the features described above, have poised PVHS well to make any transition back to virtual education since, again, the only limitation is an internet connection.
 
-<br>
-
 Now with any conncted course at any level come the challenges of plagiarism, cyberbullying, etc. First and foremost, I try to have the best faith in my students that they will not knowingly plagarise otehrs work or bully their peers. CodeHS does have a "CodeHS Honor Code" document that instructors are encouraed to use and have students sign dicussing what is acceptable and what is not. This honor code document is meant to set the tone for class culture and good digital citizenship to help prevent students from bullying/cheating. However in the case that simply honor does not encourage a high school student from cheating, CodeHS does have various other features that may be utilized to prevent plagarism. For instance, there is a code history, timestamp, and time tracker to see what, when, and how long a student added code, as well as, a copy and paste prevention. Beyond these feautures educators will just have to use their own sense about what they think a student is capable of in an introductory class.
-
-<br>
 
 As our Computer Science program continues to grow and evolve, CodeHS with its plethora of courses affords PVHS a unique opportunity to implement many different goal-oriented computer science pathways.
 
