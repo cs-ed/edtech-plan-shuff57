@@ -97,13 +97,13 @@ Add in Licencing blurb
 
 #### Instructor Hardwarware:
 
+<ins>Smartboard</ins>
 <ul>ViewSonic VPC15-WP</ul>
 <ul>2.8GHz, 6-core, Intel Core i5-8400 CPU</ul>
 <ul>8 GB RAM</ul>
 <ul>256 GB SSD Storage</ul>
 
-<br>
-
+<ins>Laptop:</ins>
 <ul>HP Elitebook x360</ul>
 <ul>1.9GHz, 4-core, Intel Core i7-8665U CPU</ul>
 <ul>16 GB RAM</ul>
@@ -137,7 +137,7 @@ describe how you address class resiliency, such as adapting to
 transitions to virtual education, social/legal/ethical challenges,  and/or
 evolving course contexts.
 
-As an instructor, I cannot ensure that *all* students will learn. Learning is a personal, self-motivated endovour. I can simply provide the optimal environment to maximize a students ***opportunity*** to learn. Through the use of various differentiation and scaffolding techniques as described in the ______ section above and throgh the 'Google Docs-like' real-time editting feature students are more connected than ever before. Uing the CodeHS platforms grants me access to a number of remdiation and extenstion assignments that I would be able to use to support my students learning. Also since PVHS is a one-to-one school, students are not limited to working in the school computer lab (which do not currently have), but students are able to work anywhere, at any time, and collaborate with anyone on their coding assignments and projects. Additionally, because CodeHS is browser based students' questions are not limited to the classroom, but rather onl;;;y limited by an internet connections and the time/willingness to continue working on coding projects outside of the school environment. All of the features described above, have poised PVHS well to make any transition back to virtual education since, again, the only limitation is an internet connection.
+As an instructor, I cannot ensure that *all* students will learn. Learning is a personal, self-motivated endovour. I can simply provide the optimal environment to maximize a students ***opportunity*** to learn. Through the use of various differentiation and scaffolding techniques as described in the ______ section above and throgh the 'Google Docs-like' real-time editting feature students are more connected than ever before. Uing the CodeHS platforms grants me access to a number of remdiation and extenstion assignments that I would be able to use to support my students learning. Also since PVHS is a one-to-one school, students are not limited to working in the school computer lab (which do not currently have), but students are able to work anywhere, at any time, and collaborate with anyone on their coding assignments and projects. Additionally, because CodeHS is browser based students' questions are not limited to the classroom, but rather only limited by an internet connections and the time/willingness to continue working on coding projects outside of the school environment. All of the features described above, have poised PVHS well to make any transition back to virtual education since, again, the only limitation is an internet connection.
 
 <br>
 
