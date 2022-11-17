@@ -97,7 +97,7 @@ Add in Licencing blurb
 
 #### Instructor Hardwarware:
 
-<ins>Smartboard</ins>
+<ins>Smartboard:</ins>
 <ul>ViewSonic VPC15-WP</ul>
 <ul>2.8GHz, 6-core, Intel Core i5-8400 CPU</ul>
 <ul>8 GB RAM</ul>
