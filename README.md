@@ -16,7 +16,7 @@ AP Computer Science Principles (AP CSP) is one of the newest AP courses from the
 
 The lessons and materials used throughout this curriculum incorporate Project-Based Learning (PBL), a pedagogical approach that actively engages students in the educational process, improves retention, and develops problem-solving, critical-thinking, and group communication skills. Through this collaborative, learner-centric approach, students are encouraged to explore the advantages and societal impact of computational technology while developing their own programming and computational thinking skills.
 
- #### Overarching Goals
+#### Overarching Goals
 
 Beyond the ample rationale for the importance of incorporating computer science in schools, there are primary, overarching goals for the course as a whole. With a surging dependency on computers AP CSP aims to:
 
