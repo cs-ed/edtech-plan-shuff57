@@ -102,10 +102,12 @@ Add in Licencing blurb
 <ul>8 GB RAM</ul>
 <ul>256 GB SSD Storage</ul>
 
+<br>
+
 <ul>HP Elitebook x360</ul>
 <ul>1.9GHz, 4-core, Intel Core i7-8665U CPU</ul>
 <ul>16 GB RAM</ul>
-<ul>512 GB SSD Storage</ul></p>
+<ul>512 GB SSD Storage</ul>
 
 #### Student Hardware:
 
