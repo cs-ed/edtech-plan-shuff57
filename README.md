@@ -176,3 +176,4 @@ Now with any conncted course at any level come the challenges of plagiarism, cyb
 
 As our Computer Science program continues to grow and evolve, CodeHS with its plethora of courses affords PVHS a unique opportunity to implement many different goal-oriented computer science pathways.
 
+
