@@ -83,38 +83,57 @@ All technical hardware requirements such as wifi network stress and Chromebook u
 
 #### Operating System
 
-<ul>Chrome OS</ul>
-<ul>Windows 10 Pro</ul>
-<ul>Windows 10 Enterprise </ul>
+<ul>
+<li>Chrome OS</li>
+<li>Windows 10 Pro</li>
+<li>Windows 10 Enterprise </li>
+</ul>
 
-#### Online IDE
+#### <ins>Online IDE</ins>
 
-<ul>Students will write and run programs in the browser using the CodeHS integrated development environment (IDE). Students will be able to write text-based Python programs, and students will use a graphics library to create Python graphical programs. The CodeHS IDE is completely self-contained. There will be no need to point outside of the CodeHS site for any debugging or library usage. (A major constraint when choosing an online IDE was ensuring it was complaint with CA State Privacy Laws when it comes to minors)</ul>
+Students will write and run programs in the browser using the CodeHS integrated development environment (IDE). Students will be able to write text-based Python programs, and students will use a graphics library to create Python graphical programs. The CodeHS IDE is completely self-contained. There will be no need to point outside of the CodeHS site for any debugging or library usage. (A major constraint when choosing an online IDE was ensuring it was complaint with CA State Privacy Laws when it comes to minors)
 
-Add in Licencing blurb
+CodeHS is offered as an entirely free platform for all to use. However, there is a paid version (annual licensing model). The paid version includes many desireable features a teacher would and should use for efficiency and student monitoring. 
 
 ### Hardware Specifications
 
 #### Instructor Hardwarware:
 
 <ins>Smartboard</ins>:
-<ul>ViewSonic VPC15-WP</ul>
-<ul>2.8GHz, 6-core, Intel Core i5-8400 CPU</ul>
-<ul>8 GB RAM</ul>
-<ul>256 GB SSD Storage</ul>
+
+<ul>
+ViewSonic VPC15-WP
+
+2.8GHz, 6-core, Intel Core i5-8400 CPU
+
+8 GB RAM
+
+256 GB SSD Storage
+</ul>
 
 <ins>Laptop</ins>:
-<ul>HP Elitebook x360</ul>
-<ul>1.9GHz, 4-core, Intel Core i7-8665U CPU</ul>
-<ul>16 GB RAM</ul>
-<ul>512 GB SSD Storage</ul>
 
-#### Student Hardware:
+<ul>
+HP Elitebook x360
 
-<ul>HP Chromebook 11 G5 EE Notebook </ul>
-<ul>1.6GHz, 2-core, Intel Celeron N3060 CPU</ul>
-<ul>4 GB RAM</ul>
-<ul>32 GB eMMC SSD Storage</ul>
+1.9GHz, 4-core, Intel Core i7-8665U CPU
+
+16 GB RAM
+
+512 GB SSD Storage</ul>
+
+#### <insStudent Hardware:
+
+Laptop:
+
+<ul>
+HP Chromebook 11 G5 EE Notebook 
+
+1.6GHz, 2-core, Intel Celeron N3060 CPU
+
+4 GB RAM
+
+32 GB eMMC SSD Storage</ul>
 
 
 Pleasant Valley High School (PVHS) is a one-to-one technology high school. Each student has a Chromebook. Since all work for this class will be completed and submitted using an Online IDE no other hardware will be required.
