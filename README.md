@@ -5,8 +5,6 @@
 ## Overview
 
 ### Introduction
-
-<ul>
   
 #### <ins>Rationale</ins>
 
@@ -56,8 +54,6 @@ Furthermore, these features should be able to cover any IEP or 504 plan accommod
 
 <ins>For English Language Learners</ins>: 
 The above description <ins>For Learners with Special Needs</ins> details accommodations that may be made for English Language Learners.
-
-</ul>
   
 ### Prerequisites
 
