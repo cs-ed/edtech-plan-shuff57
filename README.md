@@ -2,9 +2,9 @@
 
 # Educational Technology Plan
 
-## Overview
+## <ins>Overview</ins>
 
-### Introduction
+### <ins>Introduction</ins>
   
 #### <ins>Rationale</ins>
 
