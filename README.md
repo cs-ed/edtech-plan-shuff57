@@ -41,6 +41,19 @@ AP CSP curriculum from CodeHS allows for educators to implement both Project-Bas
 #### Programming Environment
 
 Students write and run programs in the browser using the CodeHS integrated development environment (IDE). Students will be able to write text-based Python programs, and students will use a graphics library to create Python graphical programs. Students gain programming experience early on in the course that will enable them to explore the rest of the course topics through computational thinking practices.
+
+#### Instructional Methods
+
+CodeHS has many built in and recognized features for its programming environment. These features can be used to push self-starters, advanced, or students looking for a challenge to greater levels of complexity. However, these same features can be used to scaffold instruction to support both learners with special needs or English Language Learners.
+
+<ins>For Advanced learners</ins>: Each lesson showcases a list of  commands that can be used to accomplish a given task. However, to promote an individual's expression and choice to move beyond the prescribed commands, there is a list of all commands. Students can explore this list and use them to accomplish a given task using more complex commands.
+
+<ins>For Learners with Special Needs</ins>: Briefly I'd like to define 'Learners with Special Needs' as Students with Disabilties or any student in need of additional differentiation or scaffolding. Each lesson provides definitions of keywords, written notes, verbal descriptions, example problems, tutorial videos, and slides to present information which is available to students at all times. In addition, each lesson provides a visual for the goal of activity available in the programming environment. In tandem with these resources, CodeHS has a “block” coding feature that an instructor may choose to enable to let students “drag blocks around” to create their program.
+
+Furthermore, these features should be able to cover any IEP or 504 plan accommodation or modification.
+
+<ins>For English Language Learners</ins>: 
+The above description <ins>For Learners with Special Needs</ins> details accommodations that may be made for English Language Learners.
   
 ### Prerequisites
 
@@ -79,7 +92,9 @@ All technical hardware requirements such as wifi network stress and Chromebook u
 
 #### Learning Management System
 
-<ul>Google Classroom linked to Aeries</ul>
+<ul>
+  <li>Google Classroom linked to Aeries</li>
+</ul>
 
 #### Operating System
 
@@ -155,7 +170,7 @@ describe how you address class resiliency, such as adapting to
 transitions to virtual education, social/legal/ethical challenges,  and/or
 evolving course contexts.
 
-As an instructor, I cannot ensure that *all* students will learn. Learning is a personal, self-motivated endovour. I can simply provide the optimal environment to maximize a students ***opportunity*** to learn. Through the use of various differentiation and scaffolding techniques as described in the ______ section above and throgh the 'Google Docs-like' real-time editting feature students are more connected than ever before. Uing the CodeHS platforms grants me access to a number of remdiation and extenstion assignments that I would be able to use to support my students learning. Also since PVHS is a one-to-one school, students are not limited to working in the school computer lab (which do not currently have), but students are able to work anywhere, at any time, and collaborate with anyone on their coding assignments and projects. Additionally, because CodeHS is browser based students' questions are not limited to the classroom, but rather only limited by an internet connections and the time/willingness to continue working on coding projects outside of the school environment. All of the features described above, have poised PVHS well to make any transition back to virtual education since, again, the only limitation is an internet connection.
+As an instructor, I cannot ensure that *all* students will learn. Learning is a personal, self-motivated endovour. I can simply provide the optimal environment to maximize a students ***opportunity*** to learn. Through the use of various differentiation and scaffolding techniques as described in [Instructional Methods](#instructional-methods) above and throgh the 'Google Docs-like' real-time editting feature students are more connected than ever before. Uing the CodeHS platforms grants me access to a number of remdiation and extenstion assignments that I would be able to use to support my students learning. Also since PVHS is a one-to-one school, students are not limited to working in the school computer lab (which do not currently have), but students are able to work anywhere, at any time, and collaborate with anyone on their coding assignments and projects. Additionally, because CodeHS is browser based students' questions are not limited to the classroom, but rather only limited by an internet connections and the time/willingness to continue working on coding projects outside of the school environment. All of the features described above, have poised PVHS well to make any transition back to virtual education since, again, the only limitation is an internet connection.
 
 Now with any conncted course at any level come the challenges of plagiarism, cyberbullying, etc. First and foremost, I try to have the best faith in my students that they will not knowingly plagarise otehrs work or bully their peers. CodeHS does have a "CodeHS Honor Code" document that instructors are encouraed to use and have students sign dicussing what is acceptable and what is not. This honor code document is meant to set the tone for class culture and good digital citizenship to help prevent students from bullying/cheating. However in the case that simply honor does not encourage a high school student from cheating, CodeHS does have various other features that may be utilized to prevent plagarism. For instance, there is a code history, timestamp, and time tracker to see what, when, and how long a student added code, as well as, a copy and paste prevention. Beyond these feautures educators will just have to use their own sense about what they think a student is capable of in an introductory class.
 
