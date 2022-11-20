@@ -56,17 +56,13 @@ Students write and run programs in the browser using the CodeHS integrated devel
 
 CodeHS has many built in and recognized features for its programming environment. These features can be used to push self-starters, advanced, or students looking for a challenge to greater levels of complexity. However, these same features can be used to scaffold instruction to support both learners with special needs or English Language Learners.
 
-<ul>
-
 *For Advanced Learners* : Each lesson showcases a list of  commands that can be used to accomplish a given task. However, to promote an individual's expression and choice to move beyond the prescribed commands, there is a list of all commands. Students can explore this list and use them to accomplish a given task using more complex commands.
 
 *For Learners with Special Needs* : Briefly I'd like to define 'Learners with Special Needs' as Students with Disabilties or any student in need of additional differentiation or scaffolding. Each lesson provides definitions of keywords, written notes, verbal descriptions, example problems, tutorial videos, and slides to present information which is available to students at all times. In addition, each lesson provides a visual for the goal of activity available in the programming environment. In tandem with these resources, CodeHS has a “block” coding feature that an instructor may choose to enable to let students “drag blocks around” to create their program.
 
 Furthermore, these features should be able to cover any IEP or 504 plan accommodation or modification.
 
-*For English Language Learners* : 
-The above description *For Learners with Special Needs* detail accommodations that may be made for English Language Learners.
-</ul>
+*For English Language Learners* : The above description *For Learners with Special Needs* detail accommodations that may be made for English Language Learners.
 
 ### Prerequisites
 
