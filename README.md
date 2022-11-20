@@ -97,7 +97,6 @@ Currently, Pleasant Valley High School (PVHS) does not offer a computer science 
 I chose to implement AP CSP to fill the current void both for its approachable content and rigor. Starting with such a low-floor, high-ceiling course allows for us (faculty at PV) to grow our computer science department by introducing even more foundational introductory courses and by implementing courses that extend beyond AP CSP.
 
 All technical hardware requirements such as wifi network stress and Chromebook upkeep have been approved.
-</ul>
 
 ## Plan
 
@@ -106,7 +105,7 @@ All technical hardware requirements such as wifi network stress and Chromebook u
 #### Learning Management System
 
 <ul>
-  <li>Google Classroom linked to Aeries</li>
+<li>Google Classroom linked to Aeries</li>
 </ul>
 
 #### Operating System
@@ -139,7 +138,9 @@ ViewSonic VPC15-WP
 
 256 GB SSD Storage
 
-<br></br>
+</ul>
+
+<ul>
 
 <ins>Laptop</ins>:
 
@@ -149,7 +150,8 @@ HP Elitebook x360
 
 16 GB RAM
 
-512 GB SSD Storage</ul>
+512 GB SSD Storage
+
 </ul>
 
 #### Student Hardware:
@@ -192,5 +194,4 @@ As an instructor, I cannot ensure that *all* students will learn. Learning is a 
 Now with any conncted course at any level come the challenges of plagiarism, cyberbullying, etc. First and foremost, I try to have the best faith in my students that they will not knowingly plagarise otehrs work or bully their peers. CodeHS does have a "CodeHS Honor Code" document that instructors are encouraed to use and have students sign dicussing what is acceptable and what is not. This honor code document is meant to set the tone for class culture and good digital citizenship to help prevent students from bullying/cheating. However in the case that simply honor does not encourage a high school student from cheating, CodeHS does have various other features that may be utilized to prevent plagarism. For instance, there is a code history, timestamp, and time tracker to see what, when, and how long a student added code, as well as, a copy and paste prevention. Beyond these feautures educators will just have to use their own sense about what they think a student is capable of in an introductory class.
 
 As our Computer Science program continues to grow and evolve, CodeHS with its plethora of courses affords PVHS a unique opportunity to implement many different goal-oriented computer science pathways.
-
 
