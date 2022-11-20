@@ -2,10 +2,12 @@
 
 # Educational Technology Plan
 
-## Overview
+## <pre>Overview</pre>
 
 ### Introduction
-  
+
+<ul>
+
 #### <ins>Rationale</ins>
 
 Computer science education can and should be available to all students. With a world that is continuing toward a reliance on computers and other computer related peripherals, computer science education is quickly cementing itself as a core part of a student's foundational learning. Prioritizing computer science in the K12 curriculum helps students to develop critical thinking, problem solving, collaboration and logical reasoning skills that they can later apply in their lives in meaningful and relevant ways. In addition to non-academic applications, computer science has relevance toward a student’s aspiration toward higher education. When implemented correctly, computer science can potentially count as a third year of science credit, fourth year of math credit, a general elective credit, career technical education credit, and or a dual enrollment course (master’s degree dependent). Computer science is highly versatile, being able to satisfy many high school graduation requirements and many university eligibility requirements, incentivizing a diverse population of students to enroll.  Data suggests that early exposure to computer science has long term-term effects on the future college and career choices students make. Clearly, the versatility and long-term influence computer science has on current and future students' overall success advocates for the importance of adopting computer science curriculum and standards as soon as possible.
@@ -46,6 +48,7 @@ Students write and run programs in the browser using the CodeHS integrated devel
 
 CodeHS has many built in and recognized features for its programming environment. These features can be used to push self-starters, advanced, or students looking for a challenge to greater levels of complexity. However, these same features can be used to scaffold instruction to support both learners with special needs or English Language Learners.
 
+<ul>
 <ins>For Advanced learners</ins>: Each lesson showcases a list of  commands that can be used to accomplish a given task. However, to promote an individual's expression and choice to move beyond the prescribed commands, there is a list of all commands. Students can explore this list and use them to accomplish a given task using more complex commands.
 
 <ins>For Learners with Special Needs</ins>: Briefly I'd like to define 'Learners with Special Needs' as Students with Disabilties or any student in need of additional differentiation or scaffolding. Each lesson provides definitions of keywords, written notes, verbal descriptions, example problems, tutorial videos, and slides to present information which is available to students at all times. In addition, each lesson provides a visual for the goal of activity available in the programming environment. In tandem with these resources, CodeHS has a “block” coding feature that an instructor may choose to enable to let students “drag blocks around” to create their program.
@@ -54,8 +57,12 @@ Furthermore, these features should be able to cover any IEP or 504 plan accommod
 
 <ins>For English Language Learners</ins>: 
 The above description <ins>For Learners with Special Needs</ins> details accommodations that may be made for English Language Learners.
-  
+</ul>
+</ul>
+
 ### Prerequisites
+
+<ul>
 
 #### Who is this course for?
 
@@ -71,8 +78,11 @@ Students should have access to a computer system(s) that contains appropriate so
 the classroom.
 
 There is also an online textbook available for many modules and topics which can be accessed through the lesson plans.
+</ul>
 
-## Context
+## <pre>Context</pre>
+
+<ul>
 
 ### Course
 
@@ -85,16 +95,20 @@ Currently, Pleasant Valley High School (PVHS) does not offer a computer science 
 I chose to implement AP CSP to fill the current void both for its approachable content and rigor. Starting with such a low-floor, high-ceiling course allows for us (faculty at PV) to grow our computer science department by introducing even more foundational introductory courses and by implementing courses that extend beyond AP CSP.
 
 All technical hardware requirements such as wifi network stress and Chromebook upkeep have been approved.
- 
-## Plan
+</ul>
+
+## <pre>Plan</pre>
 
 ### Software Specifications
+
+<ul>
 
 #### Learning Management System
 
 <ul>
   <li>Google Classroom linked to Aeries</li>
 </ul>
+
 
 #### Operating System
 
@@ -104,19 +118,23 @@ All technical hardware requirements such as wifi network stress and Chromebook u
 <li>Windows 10 Enterprise </li>
 </ul>
 
-#### <ins>Online IDE</ins>
+#### Online IDE
 
 Students will write and run programs in the browser using the CodeHS integrated development environment (IDE). Students will be able to write text-based Python programs, and students will use a graphics library to create Python graphical programs. The CodeHS IDE is completely self-contained. There will be no need to point outside of the CodeHS site for any debugging or library usage. (A major constraint when choosing an online IDE was ensuring it was complaint with CA State Privacy Laws when it comes to minors)
 
 CodeHS is offered as an entirely free platform for all to use. However, there is a paid version (annual licensing model). The paid version includes many desireable features a teacher would and should use for efficiency and student monitoring. 
+</ul>
 
 ### Hardware Specifications
 
+<ul>
+
 #### Instructor Hardwarware:
 
-Smartboard:
-
 <ul>
+
+<ins>Smartboard</ins>:
+
 ViewSonic VPC15-WP
 
 2.8GHz, 6-core, Intel Core i5-8400 CPU
@@ -124,11 +142,11 @@ ViewSonic VPC15-WP
 8 GB RAM
 
 256 GB SSD Storage
-</ul>
 
-Laptop:
 
-<ul>
+
+<ins>Laptop</ins>:
+
 HP Elitebook x360
 
 1.9GHz, 4-core, Intel Core i7-8665U CPU
@@ -136,12 +154,16 @@ HP Elitebook x360
 16 GB RAM
 
 512 GB SSD Storage</ul>
-
-#### <ins>Student Hardware</ins>:
-
-Laptop:
+</ul>
 
 <ul>
+
+#### Student Hardware:
+
+<ul>
+
+<ins>Laptop</ins>:
+
 HP Chromebook 11 G5 EE Notebook 
 
 1.6GHz, 2-core, Intel Celeron N3060 CPU
@@ -150,10 +172,13 @@ HP Chromebook 11 G5 EE Notebook
 
 32 GB eMMC SSD Storage</ul>
 
+</ul>
 
 Pleasant Valley High School (PVHS) is a one-to-one technology high school. Each student has a Chromebook. Since all work for this class will be completed and submitted using an Online IDE no other hardware will be required.
 
 **Considerations**: Since this course is directly dependent on an internet connection it should be noted that many of the lessons, activities, assignments, and projects can be handled in an “unplugged” fashion. For example peer-to-peer pseudocoding (or similar coding preparation) may be used in the unfortunate circumstance that the wifi is down. 
+
+</ul>
 
 ### Application
 
