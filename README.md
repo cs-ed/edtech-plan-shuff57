@@ -4,7 +4,7 @@
 
 ## Overview
 
-Course Title: Advance Placement Computer Science Principles (AP CSP)
+Course Title: [Advance Placement Computer Science Principles](https://drive.google.com/file/d/11GEzY5MFKMRLkXS-wDKC-9zHI6j9UU12/view?usp=share_link) (AP CSP)
 
 Grade Level: 9th - 12th
 
@@ -12,7 +12,7 @@ Graduation Req Area: Elective (Satisfies 3rd year Science requirement, Area D)
 
 Length/Credits: 1 academic year(2 Semesters)/10.0 credits
 
-Prerequisites: C or better in Integrated Math 1/Algebra
+Prerequisites: C or better in Integrated Math 1/Algebra 1
 
 ### Introduction
 
@@ -24,7 +24,7 @@ Computer science education can and should be available to all students. With a w
 
 #### <ins>Description</ins>
   
-AP Computer Science Principles (AP CSP) is one of the newest AP courses from the College Board.  AP CSP introduces students to the foundational concepts of computer science and explores the impact computing and technology have on our society. There are no official prerequisites (C or better is IM1/Algebra 1 recommended) and the course is meant to be a first-time introduction to computer science, but students should be comfortable with functions and function notation. AP CSP is a year-long high school curriculum that fully addresses the five “Big Ideas” of computer science and six “Computational Thinking Practices,” as specified by the College Board’s AP Computer Science Principles curriculum framework. In addition, the CodeHS platform (and related courses) are well aligned with California Computer Science Standards and Standards Framework, Common Core Math Standards, and Next Generation Science Standards most notably.
+AP Computer Science Principles (AP CSP) is one of the newest AP courses from the College Board.  AP CSP introduces students to the foundational concepts of computer science and explores the impact computing and technology have on our society. There are no official prerequisites (C or better is IM1/Algebra 1 recommended) and the course is meant to be a first-time introduction to computer science, but students should be comfortable with functions and function notation. AP CSP is a year-long high school curriculum that fully addresses the five “Big Ideas” of computer science and six “Computational Thinking Practices,” as specified by the College Board’s [AP Computer Science Principles curriculum framework](https://apcentral.collegeboard.org/courses/ap-computer-science-principles/course). In addition, the CodeHS platform (and related courses) are well aligned with [California Computer Science Standards and Standards Framework](https://drive.google.com/file/d/1-eQhWPbfu_720GkExFV0U89dYs8eNCUV/view?usp=share_link), [Common Core Math Standards](https://www.cde.ca.gov/be/st/ss/documents/ccssmathstandardaug2013.pdf), and [Next Generation Science Standards](https://www.cde.ca.gov/pd/ca/sc/ngssstandards.asp) most notably.
 
 The lessons and materials used throughout this curriculum incorporate Project-Based Learning (PBL), a pedagogical approach that actively engages students in the educational process, improves retention, and develops problem-solving, critical-thinking, and group communication skills. Through this collaborative, learner-centric approach, students are encouraged to explore the advantages and societal impact of computational technology while developing their own programming and computational thinking skills.
 
