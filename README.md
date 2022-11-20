@@ -12,7 +12,7 @@ Graduation Req Area: Elective (Satisfies 3rd year Science requirement, Area D)
 
 Length/Credits: 1 academic year(2 Semesters)/10.0 credits
 
-Prerequisites: C or better in Integrated Math 1/Algebra 1
+Prerequisites: C or better in Integrated Math 1 (IM1)/Algebra 1
 
 ### Introduction
 
