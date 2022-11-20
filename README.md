@@ -57,14 +57,15 @@ Students write and run programs in the browser using the CodeHS integrated devel
 CodeHS has many built in and recognized features for its programming environment. These features can be used to push self-starters, advanced, or students looking for a challenge to greater levels of complexity. However, these same features can be used to scaffold instruction to support both learners with special needs or English Language Learners.
 
 <ul>
-<ins>For Advanced learners</ins>: Each lesson showcases a list of  commands that can be used to accomplish a given task. However, to promote an individual's expression and choice to move beyond the prescribed commands, there is a list of all commands. Students can explore this list and use them to accomplish a given task using more complex commands.
 
-<ins>For Learners with Special Needs</ins>: Briefly I'd like to define 'Learners with Special Needs' as Students with Disabilties or any student in need of additional differentiation or scaffolding. Each lesson provides definitions of keywords, written notes, verbal descriptions, example problems, tutorial videos, and slides to present information which is available to students at all times. In addition, each lesson provides a visual for the goal of activity available in the programming environment. In tandem with these resources, CodeHS has a “block” coding feature that an instructor may choose to enable to let students “drag blocks around” to create their program.
+*For Advanced Learners* : Each lesson showcases a list of  commands that can be used to accomplish a given task. However, to promote an individual's expression and choice to move beyond the prescribed commands, there is a list of all commands. Students can explore this list and use them to accomplish a given task using more complex commands.
+
+*For Learners with Special Needs* : Briefly I'd like to define 'Learners with Special Needs' as Students with Disabilties or any student in need of additional differentiation or scaffolding. Each lesson provides definitions of keywords, written notes, verbal descriptions, example problems, tutorial videos, and slides to present information which is available to students at all times. In addition, each lesson provides a visual for the goal of activity available in the programming environment. In tandem with these resources, CodeHS has a “block” coding feature that an instructor may choose to enable to let students “drag blocks around” to create their program.
 
 Furthermore, these features should be able to cover any IEP or 504 plan accommodation or modification.
 
-<ins>For English Language Learners</ins>: 
-The above description <ins>For Learners with Special Needs</ins> details accommodations that may be made for English Language Learners.
+*For English Language Learners* : 
+The above description *For Learners with Special Needs* details accommodations that may be made for English Language Learners.
 </ul>
 
 ### Prerequisites
@@ -126,49 +127,49 @@ CodeHS is offered as an entirely free platform for all to use. However, there is
 
 #### Instructor Hardwarware:
 
-<ul>
+<dl>
 
 <ins>Smartboard</ins>:
 
-ViewSonic VPC15-WP
+<dd>ViewSonic VPC15-WP</dd>
 
-2.8GHz, 6-core, Intel Core i5-8400 CPU
+<dd>2.8GHz, 6-core, Intel Core i5-8400 CPU</dd>
 
-8 GB RAM
+<dd>8 GB RAM</dd>
 
-256 GB SSD Storage
+<dd>256 GB SSD Storage</dd>
 
-</ul>
+</dl>
 
-<ul>
+<dl>
 
 <ins>Laptop</ins>:
 
-HP Elitebook x360
+<dd>HP Elitebook x360</dd>
 
-1.9GHz, 4-core, Intel Core i7-8665U CPU
+<dd>1.9GHz, 4-core, Intel Core i7-8665U CPU</dd>
 
-16 GB RAM
+<dd>16 GB RAM</dd>
 
-512 GB SSD Storage
+<dd>512 GB SSD Storage</dd>
 
-</ul>
+</dl>
 
 #### Student Hardware:
 
-<ul>
+<dl>
 
 <ins>Laptop</ins>:
 
-HP Chromebook 11 G5 EE Notebook 
+<dd>HP Chromebook 11 G5 EE Notebook</dd> 
 
-1.6GHz, 2-core, Intel Celeron N3060 CPU
+<dd>1.6GHz, 2-core, Intel Celeron N3060 CPU</dd>
 
-4 GB RAM
+<dd>4 GB RAM</dd>
 
-32 GB eMMC SSD Storage</ul>
+<dd>32 GB eMMC SSD Storage</dd>
 
-</ul>
+</dl>
 
 Pleasant Valley High School (PVHS) is a one-to-one technology high school. Each student has a Chromebook. Since all work for this class will be completed and submitted using an Online IDE no other hardware will be required.
 
