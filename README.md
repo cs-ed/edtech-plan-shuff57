@@ -65,7 +65,7 @@ CodeHS has many built in and recognized features for its programming environment
 Furthermore, these features should be able to cover any IEP or 504 plan accommodation or modification.
 
 *For English Language Learners* : 
-The above description *For Learners with Special Needs* details accommodations that may be made for English Language Learners.
+The above description *For Learners with Special Needs* detail accommodations that may be made for English Language Learners.
 </ul>
 
 ### Prerequisites
