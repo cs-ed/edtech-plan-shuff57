@@ -2,7 +2,7 @@
 
 # Educational Technology Plan
 
-## <pre>Overview</pre>
+## Overview
 
 Course Title: Advance Placement Computer Science Principles (AP CSP)
 
@@ -90,7 +90,7 @@ the classroom.
 There is also an online textbook available for many modules and topics which can be accessed through the lesson plans.
 </ul>
 
-## <pre>Context</pre>
+## Context
 
 <ul>
 
@@ -107,7 +107,7 @@ I chose to implement AP CSP to fill the current void both for its approachable c
 All technical hardware requirements such as wifi network stress and Chromebook upkeep have been approved.
 </ul>
 
-## <pre>Plan</pre>
+## Plan
 
 ### Software Specifications
 
